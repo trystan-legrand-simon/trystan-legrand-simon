@@ -3,10 +3,18 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/trystan-legrand-simon"><img src="https://img.shields.io/badge/LinkedIn-070b14?style=for-the-badge&logo=linkedin&logoColor=08f7fe" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/hackee_fr"><img src="https://img.shields.io/badge/Instagram-070b14?style=for-the-badge&logo=instagram&logoColor=ff2e63" alt="Instagram" /></a>
-  <a href="https://tiktok.com/@hackee_fr"><img src="https://img.shields.io/badge/TikTok-070b14?style=for-the-badge&logo=tiktok&logoColor=08f7fe" alt="TikTok" /></a>
-  <a href="https://twitch.tv/hackee_fr"><img src="https://img.shields.io/badge/Twitch-070b14?style=for-the-badge&logo=twitch&logoColor=ff2e63" alt="Twitch" /></a>
+  <a href="https://linkedin.com/in/trystan-legrand-simon">
+    <img src="https://img.shields.io/badge/LinkedIn-070b14?style=for-the-badge&logo=linkedin&logoColor=08f7fe" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/hackee_fr">
+    <img src="https://img.shields.io/badge/Instagram-070b14?style=for-the-badge&logo=instagram&logoColor=ff2e63" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@hackee_fr">
+    <img src="https://img.shields.io/badge/TikTok-070b14?style=for-the-badge&logo=tiktok&logoColor=08f7fe" alt="TikTok" />
+  </a>
+  <a href="https://twitch.tv/hackee_fr">
+    <img src="https://img.shields.io/badge/Twitch-070b14?style=for-the-badge&logo=twitch&logoColor=ff2e63" alt="Twitch" />
+  </a>
 </p>
 
 > Ce profil est rédigé comme un rapport de pentest. La cible, c'est moi.
