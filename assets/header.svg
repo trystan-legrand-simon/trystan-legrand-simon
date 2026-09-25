@@ -61,14 +61,14 @@
 <g fill="#f1f5f9" filter="url(#glow)"><text x="500" y="168" font-size="112" font-weight="800" text-anchor="middle" letter-spacing="10">TRYSTAN</text></g>
 <g fill="#f1f5f9" clip-path="url(#slice)" transform="translate(14 0)"><text x="500" y="168" font-size="112" font-weight="800" text-anchor="middle" letter-spacing="10">TRYSTAN</text></g>
 <clipPath id="t0"><rect x="312.4" y="200" height="30" width="0"><animate attributeName="width" values="0;377.2;377.2;0;0" keyTimes="0;0.1083;0.275;0.3167;1" dur="12.0s" repeatCount="indefinite"/></rect></clipPath>
-<text x="500" y="222" font-size="18" fill="#08f7fe" text-anchor="middle" clip-path="url(#t0)">apprenti cybersécurité chez Thales</text>
+<text x="500" y="222" font-size="18" fill="#08f7fe" text-anchor="middle" clip-path="url(#t0)">Apprenti CyberSécurité chez Thales</text>
 <clipPath id="t1"><rect x="274.6" y="200" height="30" width="0"><animate attributeName="width" values="0;0;452.8;452.8;0;0" keyTimes="0;0.3333;0.4417;0.6083;0.65;1" dur="12.0s" repeatCount="indefinite"/></rect></clipPath>
-<text x="500" y="222" font-size="18" fill="#08f7fe" text-anchor="middle" clip-path="url(#t1)">ancien chauffeur poids lourd, autodidacte</text>
+<text x="500" y="222" font-size="18" fill="#08f7fe" text-anchor="middle" clip-path="url(#t1)">Ancien chauffeur poids lourd, autodidacte</text>
 <clipPath id="t2"><rect x="339.4" y="200" height="30" width="0"><animate attributeName="width" values="0;0;323.2;323.2;0;0" keyTimes="0;0.6667;0.775;0.9417;0.9833;1" dur="12.0s" repeatCount="indefinite"/></rect></clipPath>
-<text x="500" y="222" font-size="18" fill="#08f7fe" text-anchor="middle" clip-path="url(#t2)">futur pentester et red teamer</text>
+<text x="500" y="222" font-size="18" fill="#08f7fe" text-anchor="middle" clip-path="url(#t2)">Futur Pentester et Red Teamer</text>
 <text x="28" y="36" font-size="13" fill="#64748b">~/trystan $</text>
 <circle cx="804" cy="31" r="4.5" fill="#ff2e63"><animate attributeName="opacity" values="1;.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
-<text x="972" y="36" font-size="13" fill="#64748b" text-anchor="end">red team en approche</text>
+<text x="972" y="36" font-size="13" fill="#64748b" text-anchor="end">Red Team en approche</text>
 <text x="500" y="290" font-size="12" fill="#64748b" text-anchor="middle" letter-spacing="2">pentest  /  infra  /  dev  /  IA</text>
 <path d="M18 40 V18 H40" fill="none" stroke="#08f7fe" stroke-width="2" opacity=".7"/>
 <path d="M982 40 V18 H960" fill="none" stroke="#08f7fe" stroke-width="2" opacity=".7"/>
