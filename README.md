@@ -20,7 +20,7 @@ name: Trystan
 location: France 🇫🇷
 current:
   job: Apprenti Cybersécurité / Sysadmin @ Thales
-  school: Master 1 Expert en Cybersécurité — Pentester @ Ynov Connect
+  school: Master Expert en Cybersécurité — Pentester @ Ynov Connect
 focus: [Pentest, Red Team, AI Red Teaming]
 background: Ex-chauffeur poids lourd → autodidacte → IT & cyber 🚛➡️💻
 also: Création de contenu tech & montage vidéo 🎬
