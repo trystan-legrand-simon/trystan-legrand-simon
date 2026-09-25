@@ -3,9 +3,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Salut%2C+moi+c'est+Trystan+%F0%9F%91%8B;Apprenti+Cybers%C3%A9curit%C3%A9+%40+Thales;Futur+Pentester+%2F+Red+Teamer;Fullstack+Dev+%E2%80%A2+Sysadmin+%E2%80%A2+Homelab" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trystan-legrand-simon)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/MR_D3VHCK)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@MR_D3VHCK)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/MR_D3VHCK)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hackee_fr)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@hackee_fr)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/hackee_fr)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Trystan-LegrandSimon&style=flat-square&color=00d9ff&label=Vues+du+profil)
 
